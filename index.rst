@@ -90,11 +90,12 @@ Course
 * `Part 1 - The Ruby Language <parts/part1.html>`_
 * `Part 2 - Ruby Gems <parts/part2.html>`_
 * `Part 3 - Debugging <parts/part3.html>`_
-* `Part 4 - Active Record <parts/part4.html>`_
-* `Part 5 - RSpec (TDD) <parts/part5.html>`_
-* `Part 6 - Rails <parts/part6.html>`_
-* `Part 7 - Backbone <parts/part7.html>`_
-* `Part 8 - Git <parts/part8.html>`_
+* `Part 4 - SQL <parts/sql.html>`_
+* `Part 5 - Active Record <parts/part4.html>`_
+* `Part 6 - RSpec (TDD) <parts/part5.html>`_
+* `Part 7 - Rails <parts/part6.html>`_
+* `Part 8 - Backbone <parts/part7.html>`_
+* `Part 9 - Git <parts/part8.html>`_
 * `Final Projects <parts/final-projects.html>`_
 
 Appendixes
